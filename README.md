@@ -7,5 +7,5 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=akinalkan&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=akinalkan&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akinalkan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akinalkan)]
 
