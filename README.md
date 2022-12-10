@@ -118,11 +118,6 @@
           height="40"
         />
       </a>
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img
-        src="https://images.anyrecover.com/anyrecoveren/images/topic/psd-file.png""
-        alt="photoshop" width="40" height="40" />
-      </a>
     </p>
   
 
