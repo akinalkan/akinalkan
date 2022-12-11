@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Cucumber 
 - 🌱 I’m currently learning Java,API..
+- [![trophy](https://github-profile-trophy.vercel.app/?akinalkan=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
